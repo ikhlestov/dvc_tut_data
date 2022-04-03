@@ -1,3 +1,4 @@
-data_path_1
+#data_path_1
 .venv
 .DS_Store
+/data_path_1
