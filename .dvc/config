@@ -1,6 +1,4 @@
 [core]
-    remote = ssh_kotyk
-['remote "ssh_kotyk"']
-    url = ssh://dvc@192.168.33.77/s1/dvc
-    user = dvc
-    keyfile = /home/dvc/.ssh/dvc
+    remote = myremote
+['remote "myremote"']
+    url = /tmp/dvcstore
